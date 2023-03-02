@@ -1,4 +1,4 @@
-﻿class homwork{
+﻿class Homework{
     static void Main(){
         
         bool check1 = false,check2 = false, check3 = false, check4 = false;
